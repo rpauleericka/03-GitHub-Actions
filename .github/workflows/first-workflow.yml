@@ -1,6 +1,3 @@
-Github Actions
-Les actions Github sont un moyen d’exécuter une commande en réaction à un événement sur votre repo Github. Quelques détails à prendre en compte :
-
 name: first-workflow
 on: [push]
 jobs:
